@@ -6,4 +6,5 @@ B.sc Marketing
 
 # Projects
 palmpay sales analysis
+
 CredPal sales Analysis 
